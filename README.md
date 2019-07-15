@@ -1,4 +1,4 @@
-# -simulate-GBN-and-RIP
+# simulate-GBN-and-RIP
 The purpose for this project is to implement two key networking algorithms in transmission layer and network layer. 
 
 Transmission Layer : Implement a basic bidirectional GBN reliability mechanism, without session establishment and without flow or congestion control, but with TCP-like cumulative acknowledgements. go-back-N follows the rules below: 
